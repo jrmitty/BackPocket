@@ -1,5 +1,5 @@
 define([
-	'namespace'
+	'amd.namespace'
 ], function(namespace) {
 	'use strict';
 	

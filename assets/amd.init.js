@@ -5,7 +5,7 @@ require.config({
 });
 
 require([
-	'namespace'
+	'amd.namespace'
 ], function (namespace) {
 
 	console.info('%c Init done. ', 'background: #222; color: #bada55');
