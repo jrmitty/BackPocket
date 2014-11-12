@@ -1,18 +1,8 @@
 define([
-	'../namespace'
+	'namespace'
 ], function(namespace) {
 	'use strict';
-
-	/**
-	 * Storage module for support local data handling.
-	 * @module Storage
-	 * @return new Storage
-	 */
-
-	/**
-	 * @class Storage
-	 * @constructor
-	 */
+	
 	function Storage() {}
 
 	/**
