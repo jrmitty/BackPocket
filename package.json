@@ -1,0 +1,12 @@
+{
+	"name": "backpocket_toolset",
+	"version": "1.0.0",
+	"description": "backpocket_toolset",
+	"private": true,
+	"main": "server.js",
+	"author": "Nicholas Urban",
+	"license": "MIT",
+	"dependencies": {
+		"restify": "^2.8.2"
+	}
+}
